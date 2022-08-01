@@ -9,14 +9,14 @@
     </title>
     <link
       rel="shortcut icon"
-      href="assets/images/favicon.png"
+      href="public/template/assets/images/favicon.png"
       type="image/x-icon"
     />
-    <link rel="stylesheet" href="assets/css/animate.css" />
-    <link rel="stylesheet" href="assets/css/tailwind.css" />
+    <link rel="stylesheet" href="public/template/assets/css/animate.css" />
+    <link rel="stylesheet" href="public/template/assets/css/tailwind.css" />
 
     <!-- ==== WOW JS ==== -->
-    <script src="assets/js/wow.min.js"></script>
+    <script src="public/template/assets/js/wow.min.js"></script>
     <script>
       new WOW().init();
     </script>
@@ -31,7 +31,7 @@
           <div class="w-60 max-w-full px-4">
             <a href="index.html" class="navbar-logo block w-full py-5">
               <img
-                src="assets/images/logo/logo-white.svg"
+                src="public/template/assets/images/logo/logo-white.svg"
                 alt="logo"
                 class="header-logo w-full"
               />
@@ -237,7 +237,7 @@
               </ul>
               <div class="wow fadeInUp text-center" data-wow-delay=".3s">
                 <img
-                  src="assets/images/hero/brand.svg"
+                  src="public/template/assets/images/hero/brand.svg"
                   alt="image"
                   class="mx-auto w-full max-w-[250px] opacity-50 transition duration-300 ease-in-out hover:opacity-100"
                 />
@@ -252,7 +252,7 @@
             >
               <div class="mt-16">
                 <img
-                  src="assets/images/hero/hero-image.jpg"
+                  src="public/template/assets/images/hero/hero-image.jpg"
                   alt="hero"
                   class="mx-auto max-w-full rounded-t-xl rounded-tr-xl"
                 />
@@ -1637,7 +1637,7 @@
                 <div class="text-center">
                   <div class="relative z-10 inline-block">
                     <img
-                      src="assets/images/about/about-image.svg"
+                      src="public/template/assets/images/about/about-image.svg"
                       alt="image"
                       class="mx-auto lg:ml-auto"
                     />
@@ -2249,7 +2249,7 @@
                   class="ud-testimonial-image mr-5 h-[50px] w-[50px] overflow-hidden rounded-full"
                 >
                   <img
-                    src="assets/images/testimonials/author-01.png"
+                    src="public/template/assets/images/testimonials/author-01.png"
                     alt="author"
                   />
                 </div>
@@ -2339,7 +2339,7 @@
                   class="ud-testimonial-image mr-5 h-[50px] w-[50px] overflow-hidden rounded-full"
                 >
                   <img
-                    src="assets/images/testimonials/author-02.png"
+                    src="public/template/assets/images/testimonials/author-02.png"
                     alt="author"
                   />
                 </div>
@@ -2429,7 +2429,7 @@
                   class="ud-testimonial-image mr-5 h-[50px] w-[50px] overflow-hidden rounded-full"
                 >
                   <img
-                    src="assets/images/testimonials/author-03.png"
+                    src="public/template/assets/images/testimonials/author-03.png"
                     alt="author"
                   />
                 </div>
@@ -2461,7 +2461,7 @@
                     rel="nofollow noopner"
                   >
                     <img
-                      src="assets/images/brands/tailgrids.svg"
+                      src="public/template/assets/images/brands/tailgrids.svg"
                       alt="tailgrids"
                       class="grayscale duration-300 hover:filter-none"
                     />
@@ -2474,7 +2474,7 @@
                     rel="nofollow noopner"
                   >
                     <img
-                      src="assets/images/brands/ayroui.svg"
+                      src="public/template/assets/images/brands/ayroui.svg"
                       alt="ayroui"
                       class="grayscale duration-300 hover:filter-none"
                     />
@@ -2487,7 +2487,7 @@
                     rel="nofollow noopner"
                   >
                     <img
-                      src="assets/images/brands/uideck.svg"
+                      src="public/template/assets/images/brands/uideck.svg"
                       alt="uideck"
                       class="grayscale duration-300 hover:filter-none"
                     />
@@ -2500,7 +2500,7 @@
                     rel="nofollow noopner"
                   >
                     <img
-                      src="assets/images/brands/graygrids.svg"
+                      src="public/template/assets/images/brands/graygrids.svg"
                       alt="graygrids"
                       class="grayscale duration-300 hover:filter-none"
                     />
@@ -2513,7 +2513,7 @@
                     rel="nofollow noopner"
                   >
                     <img
-                      src="assets/images/brands/lineicons.svg"
+                      src="public/template/assets/images/brands/lineicons.svg"
                       alt="lineicons"
                       class="grayscale duration-300 hover:filter-none"
                     />
@@ -2558,7 +2558,7 @@
                 class="h-170px] relative z-10 mx-auto mb-6 w-[170px] rounded-full"
               >
                 <img
-                  src="assets/images/team/team-01.png"
+                  src="public/template/assets/images/team/team-01.png"
                   alt="image"
                   class="w-full rounded-full"
                 />
@@ -3048,7 +3048,7 @@
                 class="h-170px] relative z-10 mx-auto mb-6 w-[170px] rounded-full"
               >
                 <img
-                  src="assets/images/team/team-02.png"
+                  src="public/template/assets/images/team/team-02.png"
                   alt="image"
                   class="w-full rounded-full"
                 />
@@ -3536,7 +3536,7 @@
                 class="h-170px] relative z-10 mx-auto mb-6 w-[170px] rounded-full"
               >
                 <img
-                  src="assets/images/team/team-03.png"
+                  src="public/template/assets/images/team/team-03.png"
                   alt="image"
                   class="w-full rounded-full"
                 />
@@ -4026,7 +4026,7 @@
                 class="h-170px] relative z-10 mx-auto mb-6 w-[170px] rounded-full"
               >
                 <img
-                  src="assets/images/team/team-01.png"
+                  src="public/template/assets/images/team/team-01.png"
                   alt="image"
                   class="w-full rounded-full"
                 />
@@ -4665,7 +4665,7 @@
                 class="mb-6 inline-block max-w-[160px]"
               >
                 <img
-                  src="assets/images/logo/logo-white.svg"
+                  src="public/template/assets/images/logo/logo-white.svg"
                   alt="logo"
                   class="max-w-full"
                 />
@@ -4875,7 +4875,7 @@
                     class="mb-6 mr-5 block max-w-[120px] xl:max-w-[100px] 2xl:max-w-[120px]"
                   >
                     <img
-                      src="assets/images/footer/brands/tailgrids.svg"
+                      src="public/template/assets/images/footer/brands/tailgrids.svg"
                       alt="tailgrids"
                     />
                   </a>
@@ -4888,7 +4888,7 @@
                     class="mb-6 mr-5 block max-w-[120px] xl:max-w-[100px] 2xl:max-w-[120px]"
                   >
                     <img
-                      src="assets/images/footer/brands/ayroui.svg"
+                      src="public/template/assets/images/footer/brands/ayroui.svg"
                       alt="ayroui"
                     />
                   </a>
@@ -4901,7 +4901,7 @@
                     class="mb-6 mr-5 block max-w-[120px] xl:max-w-[100px] 2xl:max-w-[120px]"
                   >
                     <img
-                      src="assets/images/footer/brands/ecommerce-html.svg"
+                      src="public/template/assets/images/footer/brands/ecommerce-html.svg"
                       alt="ecommerce-html"
                     />
                   </a>
@@ -4914,7 +4914,7 @@
                     class="mb-6 mr-5 block max-w-[120px] xl:max-w-[100px] 2xl:max-w-[120px]"
                   >
                     <img
-                      src="assets/images/footer/brands/graygrids.svg"
+                      src="public/template/assets/images/footer/brands/graygrids.svg"
                       alt="graygrids"
                     />
                   </a>
@@ -4927,7 +4927,7 @@
                     class="mb-6 mr-5 block max-w-[120px] xl:max-w-[100px] 2xl:max-w-[120px]"
                   >
                     <img
-                      src="assets/images/footer/brands/lineicons.svg"
+                      src="public/template/assets/images/footer/brands/lineicons.svg"
                       alt="lineicons"
                     />
                   </a>
@@ -4940,7 +4940,7 @@
                     class="mb-6 mr-5 block max-w-[120px] xl:max-w-[100px] 2xl:max-w-[120px]"
                   >
                     <img
-                      src="assets/images/footer/brands/uideck.svg"
+                      src="public/template/assets/images/footer/brands/uideck.svg"
                       alt="uideck"
                     />
                   </a>
@@ -5001,11 +5001,11 @@
 
       <div>
         <span class="absolute left-0 top-0 z-[-1]">
-          <img src="assets/images/footer/shape-1.svg" alt="" />
+          <img src="public/template/assets/images/footer/shape-1.svg" alt="" />
         </span>
 
         <span class="absolute bottom-0 right-0 z-[-1]">
-          <img src="assets/images/footer/shape-3.svg" alt="" />
+          <img src="public/template/assets/images/footer/shape-3.svg" alt="" />
         </span>
 
         <span class="absolute top-0 right-0 z-[-1]">
@@ -5280,7 +5280,7 @@
 
     <!-- ====== All Scripts -->
 
-    <script src="assets/js/main.js"></script>
+    <script src="public/template/assets/js/main.js"></script>
     <script>
       // ==== for menu scroll
       const pageLink = document.querySelectorAll(".ud-menu-scroll");
