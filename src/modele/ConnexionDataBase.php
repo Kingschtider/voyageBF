@@ -1,9 +1,9 @@
 <?php
 define('DB_HOST', 'localhost');
-define('DB_DATABASE', 'immobilier');
+define('DB_DATABASE', 'dbvoyage');
 define('DB_USERNAME', 'root');
-define('DB_PASSWORD', 'root');
-define('DB_PORT', 3304);
+define('DB_PASSWORD', '');
+define('DB_PORT', 3306);
 
 class ConnexionDataBase
 {
